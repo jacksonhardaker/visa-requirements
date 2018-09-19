@@ -1,6 +1,7 @@
 const rp = require('request-promise');
 const $ = require('cheerio');
 const fs = require('fs');
+const countries = require('./countries.json');
 
 const wikiBase = 'https://en.wikipedia.org';
 const entryPoint =
@@ -37,8 +38,14 @@ async function getVisaRequrementsObjects(urls) {
 
     let requirementsObj = await getCountryVisaRequirements(urls[i]);
 
+    let nationality = decodeURIComponent(urls[i]
+      .replace(/(\/wiki\/Visa_requirements_for_)|(_citizens)/g, '')
+      .replace(/_/g, ' '));
+
     visaReqArr.push({
       scrapeUrl: urls[i],
+      nationality: nationality,
+      country: getCountryByNationality(nationality),
       requirements: requirementsObj
     });
 
@@ -76,7 +83,7 @@ async function getCountryVisaRequirements(url) {
             .text()
             .trim()
         : null;
-      let notes = visaReqCells[3] 
+      let notes = visaReqCells[3]
         ? $(visaReqCells[3])
             .text()
             .replace(/\[\d+\]/g, '')
@@ -103,4 +110,19 @@ function getCountryVisaPageLinks(html) {
   );
 
   return linksOnly;
+}
+
+function getCountryByNationality(nationality) {
+  let lowerCaseNationality = nationality.toLowerCase().trim();
+
+  return countries.find(country => {
+    let countryShortLower = country.enShortName.toLowerCase().trim();
+    let countryNatsLower = country.nationality.toLowerCase().split(',');
+
+    if (lowerCaseNationality === countryShortLower) {
+      return country;
+    }
+
+    return countryNatsLower.find(nat => nat.trim() === lowerCaseNationality);
+  });
 }

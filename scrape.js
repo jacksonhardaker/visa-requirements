@@ -38,14 +38,16 @@ async function getVisaRequrementsObjects(urls) {
 
     let requirementsObj = await getCountryVisaRequirements(urls[i]);
 
-    let nationality = decodeURIComponent(urls[i]
-      .replace(/(\/wiki\/Visa_requirements_for_)|(_citizens)/g, '')
-      .replace(/_/g, ' '));
+    let nationality = decodeURIComponent(
+      urls[i]
+        .replace(/(\/wiki\/Visa_requirements_for_)|(_citizens)/g, '')
+        .replace(/_/g, ' ')
+    );
 
     visaReqArr.push({
       scrapeUrl: urls[i],
       nationality: nationality,
-      country: getCountryByNationality(nationality),
+      ...getCountryByNationality(nationality),
       requirements: requirementsObj
     });
 

@@ -1,0 +1,1168 @@
+{
+    "scrapeUrl": "/wiki/Visa_requirements_for_United_States_citizens",
+    "nationality": "American, United States",
+    "numCode": "840",
+    "alpha2Code": "US",
+    "alpha3Code": "USA",
+    "enShortName": "United States of America",
+    "requirements": {
+        "afghanistan": {
+            "country": "Afghanistan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Visitors born in Afghanistan do not require a visa.\nVisitors arriving via military air need to legalize their stay if they wish to leave via commercial airline.\nAll visitors are fingerprinted."
+        },
+        "albania": {
+            "country": "Albania",
+            "status": "Visa not required",
+            "allowedStay": "1 year[7]",
+            "notes": ""
+        },
+        "algeria": {
+            "country": "Algeria",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Persons may be denied entry if entering with a passport containing visas or stamps issued by Israel."
+        },
+        "andorra": {
+            "country": "Andorra",
+            "status": "Visa not required",
+            "allowedStay": "3 months[11][12]",
+            "notes": ""
+        },
+        "angola": {
+            "country": "Angola",
+            "status": "eVisa",
+            "allowedStay": "30 days",
+            "notes": "Visitors who have been granted an online pre-visa are then issued with a visa on arrival at Luanda International Airport.\nFor a maximum total stay of 90 days within a one year period."
+        },
+        "antigua_and_barbuda": {
+            "country": "Antigua and Barbuda",
+            "status": "Visa not required",
+            "allowedStay": "6 months[21]",
+            "notes": "Stringent application of rules regarding proof of sufficient funds, return ticket and accommodation."
+        },
+        "argentina": {
+            "country": "Argentina",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "Extendable up to 180 days.\nVisitors are fingerprinted and photographed upon entry."
+        },
+        "armenia": {
+            "country": "Armenia",
+            "status": "Visa not required",
+            "allowedStay": "180 days",
+            "notes": ""
+        },
+        "australia": {
+            "country": "Australia",
+            "status": "Electronic Travel Authority",
+            "allowedStay": "90 days",
+            "notes": "90 days on each visit in 12-month period if granted\nMay enter using SmartGate."
+        },
+        "austria": {
+            "country": "Austria",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area"
+        },
+        "azerbaijan": {
+            "country": "Azerbaijan",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "30 days[32]",
+            "notes": "If intending to stay in the Republic of Azerbaijan for more than ten days, the visitor must register at the State Migration Service of the Republic of Azerbaijan within three days upon arrival in Azerbaijan.\nApplicants of Armenian ancestry or with Armenian visas in their passport may not obtain a visa.\nCan obtain a 30 days visa on arrival only if arriving on a direct flight of Azerbaijan Airlines from New York City."
+        },
+        "bahamas": {
+            "country": "Bahamas",
+            "status": "Visa not required",
+            "allowedStay": "8 months",
+            "notes": "Passport Card or Enhanced Drivers License valid for Sea Travel"
+        },
+        "bahrain": {
+            "country": "Bahrain",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "14 days[39]",
+            "notes": "Visa also obtainable online"
+        },
+        "bangladesh": {
+            "country": "Bangladesh",
+            "status": "Visa on arrival",
+            "allowedStay": "30 days[42]",
+            "notes": "Available at Shahjalal International Airport, Shah Amanat International Airport and Osmani International Airport.\nVisa is not required by Bangladeshi Americans.\nDeparture tax applies."
+        },
+        "barbados": {
+            "country": "Barbados",
+            "status": "Visa not required",
+            "allowedStay": "28 days",
+            "notes": "Extendable up to 6 months"
+        },
+        "belarus": {
+            "country": "Belarus",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": "Must arrive and depart via Minsk International Airport.\nRegistration upon arrival for stays longer than 5 days is mandatory.\nVisa-free visits to Belovezhskaya Pushcha National Park for up to 3 days.\nVisa-free visits to the Grodno and Augustow Canal visa-free zone for up to 5 days.\nNo transit without a visa under any circumstance."
+        },
+        "belgium": {
+            "country": "Belgium",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area"
+        },
+        "belize": {
+            "country": "Belize",
+            "status": "Visa not required",
+            "allowedStay": "1 month",
+            "notes": "Extendable up to 6 months\nDeparture tax applies."
+        },
+        "benin": {
+            "country": "Benin",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "30 days / 8 days",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "bhutan": {
+            "country": "Bhutan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "$250 per day is a non-negotiable minimum daily tariff paid by all visitors to Bhutan.\nVisas are issued only to tourists booked with a local licensed tour operator."
+        },
+        "bolivia": {
+            "country": "Bolivia",
+            "status": "Visa on arrival",
+            "allowedStay": "90 days[64]",
+            "notes": "Reciprocal fee applies. Visas are issued with 10 year validity."
+        },
+        "bosnia_and_herzegovina": {
+            "country": "Bosnia and Herzegovina",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 6-month period\nRegistration with the local police within 24 hours of arrival is mandatory."
+        },
+        "botswana": {
+            "country": "Botswana",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any year period"
+        },
+        "brazil": {
+            "country": "Brazil",
+            "status": "eVisa",
+            "allowedStay": "90 days",
+            "notes": "90 days per year; valid for 2 years."
+        },
+        "brunei": {
+            "country": "Brunei",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": ""
+        },
+        "bulgaria": {
+            "country": "Bulgaria",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period"
+        },
+        "burkina_faso": {
+            "country": "Burkina Faso",
+            "status": "Visa on arrival",
+            "allowedStay": "1 month",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "burundi": {
+            "country": "Burundi",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Visitors are fingerprinted"
+        },
+        "cambodia": {
+            "country": "Cambodia",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": "Visa is also obtainable online.\nAll visitors are fingerprinted on arrival and departure."
+        },
+        "cameroon": {
+            "country": "Cameroon",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "International Certificate of Vaccination and current immunization records required."
+        },
+        "canada": {
+            "country": "Canada",
+            "status": "Visa not required",
+            "allowedStay": "180 days",
+            "notes": "Anyone with a criminal record (including misdemeanors or alcohol-related driving offenses in the US) may not be able to enter Canada without first obtaining an approval for rehabilitation or a Temporary Resident Permit (TRP).\nPassport Card, NEXUS card, or Enhanced Drivers License valid for Land and Sea Travel"
+        },
+        "cape_verde": {
+            "country": "Cape Verde",
+            "status": "Visa on arrival",
+            "allowedStay": "",
+            "notes": "Obtainable at Nelson Mandela International Airport, Cesária Évora Airport, Amílcar Cabral International Airport and Aristides Pereira International Airport.\nPassengers arriving via Africa must hold an International Certificate of Vaccination."
+        },
+        "central_african_republic": {
+            "country": "Central African Republic",
+            "status": "Visa not required",
+            "allowedStay": "180 days",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "chad": {
+            "country": "Chad",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "International Certificate of Vaccination required.\nRegistration within 72 hours is mandatory prior to arrival. Registration is good for the life of the passport."
+        },
+        "chile": {
+            "country": "Chile",
+            "status": "Visa not required",
+            "allowedStay": "90 days[103][104]",
+            "notes": ""
+        },
+        "china": {
+            "country": "China",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Registration mandatory within 24 hours of arrival;\nAll visitors are fingerprinted on arrival and departure between the ages of 14 and 70.\n72-hour visit without a visa when in transit at Changsha, Chengdu, Chongqing, Guangzhou, Guilin, Harbin, Kunming, Qingdao, Wuhan, Xi'an and Xiamen.144-hours visit without a visa when in transit through Beijing Capital International Airport, Dalian, Hangzhou, Shijiazhuang Zhengding International Airport in Hebei, Nanjing, Shanghai Hongqiao International Airport and Shanghai Pudong International Airport, Shanghai Railway Station and the Port of Shanghai); Shenyang and Tianjin Binhai International Airport\nHong Kong, Macau, and Taiwan do count as third countries under the 72 and 144-hours visa-free visit transit policy.\nVisas for U.S. citizens are valid for up to 10 years."
+        },
+        "colombia": {
+            "country": "Colombia",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "Extendable up to 180-days stay within a one-year period\nColombian-born U.S. citizens and U.S. citizens traveling with children may face special exit requirements."
+        },
+        "comoros": {
+            "country": "Comoros",
+            "status": "Visa on arrival",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "democratic_republic_of_the_congo": {
+            "country": "Democratic Republic of the Congo",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "International Certificate of Vaccination required.\nRegistration required.\nVisas must be issued at the DR Congo embassy in Washington, D.C."
+        },
+        "republic_of_the_congo": {
+            "country": "Republic of the Congo",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "International Certificate of Vaccination required.\nA letter of invitation or written proof of a hotel reservation required."
+        },
+        "costa_rica": {
+            "country": "Costa Rica",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "Departure tax applies."
+        },
+        "côte_d'ivoire": {
+            "country": "Côte d'Ivoire",
+            "status": "eVisa",
+            "allowedStay": "",
+            "notes": "eVisa holders must arrive via Port Bouet Airport\nInternational Certificate of Vaccination required"
+        },
+        "croatia": {
+            "country": "Croatia",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period\nRegistration with the local police within 24 hours of arrival is mandatory."
+        },
+        "cuba": {
+            "country": "Cuba",
+            "status": "Tourist Card required",
+            "allowedStay": "",
+            "notes": "Tourist travel was historically prohibited under U.S. law for U.S. citizens, permanent residents, and others subject to U.S. jurisdiction. Under the Cuban Assets Control Regulations, all persons subject to U.S. jurisdiction are not permitted to travel to Cuba, and must be licensed in order to engage in any travel-related transactions pursuant to travel to, from, and within Cuba. In July 2015, the United States resumed diplomatic relations with Cuba. Discussions on lifting the travel ban have initiated. On June 16, 2017, U.S. President Donald Trump announced new travel restrictions."
+        },
+        "cyprus": {
+            "country": "Cyprus",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period"
+        },
+        "czech_republic": {
+            "country": "Czech Republic",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area"
+        },
+        "denmark": {
+            "country": "Denmark",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area\nUS citizens can enter Denmark for up to 90 days every six months, regardless of whether they have stayed in another Schengen area (except the other Nordic countries) country prior to entry into Denmark."
+        },
+        "djibouti": {
+            "country": "Djibouti",
+            "status": "eVisa",
+            "allowedStay": "31 days",
+            "notes": ""
+        },
+        "dominica": {
+            "country": "Dominica",
+            "status": "Visa not required",
+            "allowedStay": "6 months",
+            "notes": "Departure tax applies."
+        },
+        "dominican_republic": {
+            "country": "Dominican Republic",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": "Extendable up to 90 days\nPassport Card or Enhanced Drivers License valid for Sea Travel"
+        },
+        "ecuador": {
+            "country": "Ecuador",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "Extendable for another 90 days, per year"
+        },
+        "egypt": {
+            "country": "Egypt",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "",
+            "notes": "eVisa issued for 30 days.\n30 days when arriving by air;\nTourists arriving at Sharm El Sheikh, Saint Catherine or Taba airports and remaining in the Sinai resorts do not require a visa up to 15 days"
+        },
+        "el_salvador": {
+            "country": "El Salvador",
+            "status": "Visa not required",
+            "allowedStay": "3 months",
+            "notes": ""
+        },
+        "equatorial_guinea": {
+            "country": "Equatorial Guinea",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "International Certificate of Vaccination required if you are traveling from a country with risk of yellow fever."
+        },
+        "eritrea": {
+            "country": "Eritrea",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Airport departure tax applies."
+        },
+        "estonia": {
+            "country": "Estonia",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area"
+        },
+        "ethiopia": {
+            "country": "Ethiopia",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "",
+            "notes": "Obtainable at Addis Ababa Bole International Airport.\nVisitors are fingerprinted"
+        },
+        "fiji": {
+            "country": "Fiji",
+            "status": "Visa not required",
+            "allowedStay": "4 months[166]",
+            "notes": ""
+        },
+        "finland": {
+            "country": "Finland",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area"
+        },
+        "france": {
+            "country": "France",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area (in Regions of France)"
+        },
+        "gabon": {
+            "country": "Gabon",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "",
+            "notes": "Electronic visa holders must arrive via Libreville International Airport.\nInternational Certificate of Vaccination required."
+        },
+        "gambia": {
+            "country": "Gambia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "georgia": {
+            "country": "Georgia",
+            "status": "Visa not required",
+            "allowedStay": "1 year",
+            "notes": "Visitors must hold proof of health insurance."
+        },
+        "germany": {
+            "country": "Germany",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area"
+        },
+        "ghana": {
+            "country": "Ghana",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "greece": {
+            "country": "Greece",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area"
+        },
+        "grenada": {
+            "country": "Grenada",
+            "status": "Visa not required",
+            "allowedStay": "3 months",
+            "notes": "Extensions possible"
+        },
+        "guatemala": {
+            "country": "Guatemala",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "An exit tax must be paid when departing by air."
+        },
+        "guinea": {
+            "country": "Guinea",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Single entry valid for 3 months.\nInternational Certificate of Vaccination required."
+        },
+        "guinea-bissau": {
+            "country": "Guinea-Bissau",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "90 days[195]",
+            "notes": "Visitors must apply for a visa on arrival in advance or online."
+        },
+        "guyana": {
+            "country": "Guyana",
+            "status": "Visa not required",
+            "allowedStay": "3 months[198]",
+            "notes": ""
+        },
+        "haiti": {
+            "country": "Haiti",
+            "status": "Visa not required",
+            "allowedStay": "3 months",
+            "notes": ""
+        },
+        "honduras": {
+            "country": "Honduras",
+            "status": "Visa not required",
+            "allowedStay": "3 months",
+            "notes": "Departing airport tax applies."
+        },
+        "hungary": {
+            "country": "Hungary",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area"
+        },
+        "iceland": {
+            "country": "Iceland",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area"
+        },
+        "india": {
+            "country": "India",
+            "status": "eVisa",
+            "allowedStay": "60 days",
+            "notes": "e-Visa holders must arrive via 25 designated airports[Note 2] or 3 designated seaports.[Note 3]\nAn Indian e-Tourist Visa can only be obtained twice in one calendar year.\n$75 fee along with bank surcharge of 2.5%\nConfirmation has to be shown at the border where a visa on arrival is issued.\nVisitors are fingerprinted.\nAmerican citizens are eligible for a ten-year, multiple-entry tourist visa."
+        },
+        "indonesia": {
+            "country": "Indonesia",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "iran": {
+            "country": "Iran",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Iranian visas must be obtained from the Special Interests section of the Embassy of Pakistan, Washington, D.C.\nUS visitors are fingerprinted and photographed upon entry.\nIndependent travelers must be accompanied by an authorized guide at all times."
+        },
+        "iraq": {
+            "country": "Iraq",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Some U.S. citizens must obtain an exit stamp at a Residency Office before departing the country.\nSome visitors who plan to stay for more than 10 days must also obtain a residency stamp.\nVisitors who come as part of a government-sponsored tour, upon presentation of proper paperwork from the government, may receive a visa on arrival at Baghdad International Airport for $80 + 1250 Iraqi dinar. Visitors are not required to obtain any other permits, including for Iraqi Kurdistan, or submit blood tests."
+        },
+        "ireland": {
+            "country": "Ireland",
+            "status": "Visa not required",
+            "allowedStay": "3 months",
+            "notes": "Strict application of immigration rules regarding providing proof of the trip purpose, sufficient funds, return ticket and accommodation."
+        },
+        "israel": {
+            "country": "Israel",
+            "status": "Visa not required",
+            "allowedStay": "3 months",
+            "notes": "Dual nationals of Israel and the United States who don't have an Israeli passport, including infants, may be required to obtain an Israeli passport in order to leave Israel.\nEntry prohibited for any person “who knowingly issues a public call for boycotting Israel\"."
+        },
+        "italy": {
+            "country": "Italy",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area"
+        },
+        "jamaica": {
+            "country": "Jamaica",
+            "status": "Visa not required",
+            "allowedStay": "6 months",
+            "notes": "There is a departure tax for travelers, which is regularly included in airfare."
+        },
+        "japan": {
+            "country": "Japan",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "All visitors are fingerprinted"
+        },
+        "jordan": {
+            "country": "Jordan",
+            "status": "Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": "Visa on arrival obtainable at most international ports of entry and at most international land border crossings (except King Hussein/Allenby Bridge crossing).\nIris scan is taken on arrival and departure"
+        },
+        "kazakhstan": {
+            "country": "Kazakhstan",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": "As part of the no-visa pilot program in period 15 July 2014 – 15 July 2015. In June 2015 this program was extended until December 31, 2017."
+        },
+        "kenya": {
+            "country": "Kenya",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "3 months",
+            "notes": "International Certificate of Vaccination is recommended.\nAll visitors are fingerprinted on arrival and departure"
+        },
+        "kiribati": {
+            "country": "Kiribati",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": "Airport Embarkation Tax applies."
+        },
+        "north_korea": {
+            "country": "North Korea",
+            "status": "Travel restricted",
+            "allowedStay": "",
+            "notes": "U.S. passports holders must obtain a special passport validation from the U.S. federal government before travel."
+        },
+        "south_korea": {
+            "country": "South Korea",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "All visitors are fingerprinted."
+        },
+        "kuwait": {
+            "country": "Kuwait",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "3 months",
+            "notes": ""
+        },
+        "kyrgyzstan": {
+            "country": "Kyrgyzstan",
+            "status": "Visa not required",
+            "allowedStay": "60 days[251]",
+            "notes": ""
+        },
+        "laos": {
+            "country": "Laos",
+            "status": "Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": "Conditions apply.\nAvailable at international airports Luangphabang, Pakse, Savannakhet and Vientiane, and at 4 land borders Friendship Bridge,[Note 4] and at 13 border crossings[Note 5] as well as Tanalaeng train station in Vientiane, which connects to the train station in Nongkai, Thailand.\nEntry points Lalai, Lantui, Meuang mom, Pakxan, and Phoudou are open only to visa holders.\nExtendable up to 60 days."
+        },
+        "latvia": {
+            "country": "Latvia",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area"
+        },
+        "lebanon": {
+            "country": "Lebanon",
+            "status": "Visa on arrival",
+            "allowedStay": "1 month",
+            "notes": "Extendable for 2 additional months.\nGranted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket"
+        },
+        "lesotho": {
+            "country": "Lesotho",
+            "status": "Visa not required",
+            "allowedStay": "14 days",
+            "notes": "Extendable up to 180 days."
+        },
+        "liberia": {
+            "country": "Liberia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "libya": {
+            "country": "Libya",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Visitors travelling to Libya for touristic purposes are required to convert USD 1,000 or equivalent on arrival.\nHolders of passports bearing an Israeli visa or entry/exit stamps from Israel are not allowed to enter Libya."
+        },
+        "liechtenstein": {
+            "country": "Liechtenstein",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area"
+        },
+        "lithuania": {
+            "country": "Lithuania",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area\nMandatory medical insurance."
+        },
+        "luxembourg": {
+            "country": "Luxembourg",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area"
+        },
+        "macedonia": {
+            "country": "Macedonia",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "Registration with the local police within 24 hours of arrival is mandatory"
+        },
+        "madagascar": {
+            "country": "Madagascar",
+            "status": "Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": "Available at all airports servicing international flights.\nVisa on arrival is issued free of charge. Visas for 60 or 90 days available for a fee."
+        },
+        "malawi": {
+            "country": "Malawi",
+            "status": "Visa on arrival",
+            "allowedStay": "",
+            "notes": "From 1 October 2015 visitors are generally advised to obtain a visa in advance."
+        },
+        "malaysia": {
+            "country": "Malaysia",
+            "status": "Visa not required",
+            "allowedStay": "3 months",
+            "notes": "All visitors are fingerprinted on arrival and departure.\nImmigration offenses, such as visa overstaying, are punishable by caning."
+        },
+        "maldives": {
+            "country": "Maldives",
+            "status": "Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": "Extendable up to 90 days.\nVisa on arrival is issued free of charge."
+        },
+        "mali": {
+            "country": "Mali",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Letter of invitation required.\nInternational Certificate of Vaccination required."
+        },
+        "malta": {
+            "country": "Malta",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area"
+        },
+        "marshall_islands": {
+            "country": "Marshall Islands",
+            "status": "Visa not required",
+            "allowedStay": "unlimited",
+            "notes": "Departure fee applies.\nU.S. citizens may live and work freely in the Marshall Islands under the Compact of Free Association."
+        },
+        "mauritania": {
+            "country": "Mauritania",
+            "status": "Visa on arrival",
+            "allowedStay": "",
+            "notes": "Available at Nouakchott–Oumtounsy International Airport.\nInternational Certificate of Vaccination required."
+        },
+        "mauritius": {
+            "country": "Mauritius",
+            "status": "Visa not required",
+            "allowedStay": "90 days[293]",
+            "notes": ""
+        },
+        "mexico": {
+            "country": "Mexico",
+            "status": "Visa not required",
+            "allowedStay": "180 days",
+            "notes": "Visitors entering by land and traveling farther than 20 kilometers into Mexico or staying longer than 72 hours must obtain a document Forma Migratoria Multiple.\nPassport Card or Enhanced Drivers License valid for Land and Sea Travel"
+        },
+        "micronesia": {
+            "country": "Micronesia",
+            "status": "Visa not required",
+            "allowedStay": "unlimited[299]",
+            "notes": "All states except Yap have a departure fee.\nU.S. citizens may live and work freely in Micronesia under the Compact of Free Association.\nThere is no limit to the length of time U.S. citizens can remain in the FSM."
+        },
+        "moldova": {
+            "country": "Moldova",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period\nRegistration upon arrival is mandatory."
+        },
+        "monaco": {
+            "country": "Monaco",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period"
+        },
+        "mongolia": {
+            "country": "Mongolia",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "Registration required after 30 days."
+        },
+        "montenegro": {
+            "country": "Montenegro",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "Registration with the local police within 24 hours of arrival is mandatory."
+        },
+        "morocco": {
+            "country": "Morocco",
+            "status": "Visa not required",
+            "allowedStay": "3 months[312]",
+            "notes": ""
+        },
+        "mozambique": {
+            "country": "Mozambique",
+            "status": "Visa on arrival",
+            "allowedStay": "30 days[314]",
+            "notes": ""
+        },
+        "myanmar": {
+            "country": "Myanmar",
+            "status": "eVisa",
+            "allowedStay": "28 days",
+            "notes": "eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or from three land border crossings: Tachileik, Myawaddy, and Kawthaung"
+        },
+        "namibia": {
+            "country": "Namibia",
+            "status": "Visa not required",
+            "allowedStay": "3 months[318]",
+            "notes": ""
+        },
+        "nauru": {
+            "country": "Nauru",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Visas are issued with validity of 30 days."
+        },
+        "nepal": {
+            "country": "Nepal",
+            "status": "Visa on arrival",
+            "allowedStay": "90 days",
+            "notes": "Obtainable at Tribhuvan International Airport and certain land borders.\nTotal of no more than 150 aggregate days in any given calendar year."
+        },
+        "netherlands": {
+            "country": "Netherlands",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area (European Netherlands)"
+        },
+        "new_zealand": {
+            "country": "New Zealand",
+            "status": "Visa not required",
+            "allowedStay": "90 days[327]",
+            "notes": "May enter using SmartGate."
+        },
+        "nicaragua": {
+            "country": "Nicaragua",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "A tourist card must be purchased upon arrival."
+        },
+        "niger": {
+            "country": "Niger",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "nigeria": {
+            "country": "Nigeria",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Visa can be obtained online."
+        },
+        "norway": {
+            "country": "Norway",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area"
+        },
+        "oman": {
+            "country": "Oman",
+            "status": "eVisa",
+            "allowedStay": "30 days",
+            "notes": "Extendable for 30 days\nHolders of a visa or entrance stamp of the Emirate of Dubai that is valid for at least 21 days are visa exempt.\nHolders of a visa for Qatar that is valid for travel to Oman and valid for at least one month are visa exempt when arriving directly from Qatar.\nIris scan is taken on arrival"
+        },
+        "pakistan": {
+            "country": "Pakistan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Visa on arrival when travelling on business valid for 30 days. Conditions apply.\nVisa on arrival when travelling as part of a group through a designated tour operator."
+        },
+        "palau": {
+            "country": "Palau",
+            "status": "Visa not required",
+            "allowedStay": "1 year[345]",
+            "notes": "U.S. citizens may live and work freely in Palau under the Compact of Free Association."
+        },
+        "panama": {
+            "country": "Panama",
+            "status": "Visa not required",
+            "allowedStay": "180 days",
+            "notes": "Denial of entry or transit to any person who has a criminal conviction."
+        },
+        "papua_new_guinea": {
+            "country": "Papua New Guinea",
+            "status": "Visa on arrival",
+            "allowedStay": "60 days",
+            "notes": "Extendable for 30 days\nVisa on arrival is issued free of charge."
+        },
+        "paraguay": {
+            "country": "Paraguay",
+            "status": "Visa on arrival",
+            "allowedStay": "90 days",
+            "notes": "U.S. citizens arriving by air may obtain a visa on arrival at Silvio Pettirossi International Airport in Asuncion. This is a multiple entry visa with a validity of up to 10 (ten) years. If entering elsewhere, a visa must be obtained in advance from the embassy or consulate."
+        },
+        "peru": {
+            "country": "Peru",
+            "status": "Visa not required",
+            "allowedStay": "183 days",
+            "notes": "Determined on arrival"
+        },
+        "philippines": {
+            "country": "Philippines",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": "Naturalized US citizens of former Philippine nationality (balikbayan) allowed to stay for one year."
+        },
+        "poland": {
+            "country": "Poland",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area\nDual nationals must use their Polish passport"
+        },
+        "portugal": {
+            "country": "Portugal",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area"
+        },
+        "qatar": {
+            "country": "Qatar",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": "Available only at Hamad International Airport. For other ports of entry, a Free visa as of 20 Oct 2017 that could change and can be extended for 1 month.\nHolders of a valid common visa issued by Oman are exempt from a visa if arriving from Oman directly."
+        },
+        "romania": {
+            "country": "Romania",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period"
+        },
+        "russia": {
+            "country": "Russia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "72-hour visa-free for international cruise ship/ferry passengers only if travelling with an organized tour and accompanied at all times by a tour operator.\nRegistration required after 7 business days.\nAmerican citizens may receive multiple entry visas valid for three years."
+        },
+        "rwanda": {
+            "country": "Rwanda",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": "Visitors are fingerprinted\nInternational Certificate of Vaccination required."
+        },
+        "saint_kitts_and_nevis": {
+            "country": "Saint Kitts and Nevis",
+            "status": "Visa not required",
+            "allowedStay": "3 months",
+            "notes": ""
+        },
+        "saint_lucia": {
+            "country": "Saint Lucia",
+            "status": "Visa not required",
+            "allowedStay": "6 weeks",
+            "notes": ""
+        },
+        "saint_vincent_and_the_grenadines": {
+            "country": "Saint Vincent and the Grenadines",
+            "status": "Visa not required",
+            "allowedStay": "1 month[379]",
+            "notes": ""
+        },
+        "samoa": {
+            "country": "Samoa",
+            "status": "Entry Permit on arrival",
+            "allowedStay": "60 days",
+            "notes": "Visa on arrival is issued free of charge.\nDeparture tax applies."
+        },
+        "san_marino": {
+            "country": "San Marino",
+            "status": "Visa not required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "são_tomé_and_príncipe": {
+            "country": "São Tomé and Príncipe",
+            "status": "Visa not required",
+            "allowedStay": "15 days",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "saudi_arabia": {
+            "country": "Saudi Arabia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Holders of passports that contain visas or entry/exit stamps for Israel will likely be refused entry.\nAdvance visa is required.\nNo tourist visas available.\nAll visitors are fingerprinted"
+        },
+        "senegal": {
+            "country": "Senegal",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "serbia": {
+            "country": "Serbia",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period"
+        },
+        "seychelles": {
+            "country": "Seychelles",
+            "status": "Visitor's Permit on arrival",
+            "allowedStay": "3 months",
+            "notes": "Extendable up to a year\nVisa on arrival is issued free of charge."
+        },
+        "sierra_leone": {
+            "country": "Sierra Leone",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "singapore": {
+            "country": "Singapore",
+            "status": "Visa not required",
+            "allowedStay": "90 days[399]",
+            "notes": "All visitors are fingerprinted on arrival and departure"
+        },
+        "slovakia": {
+            "country": "Slovakia",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area\nMedical insurance required.\nSufficient funds of $50 per person per day required.\nRegistration within 3 working days required."
+        },
+        "slovenia": {
+            "country": "Slovenia",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area\nRegistration with the local police within 72 hours of arrival is mandatory."
+        },
+        "solomon_islands": {
+            "country": "Solomon Islands",
+            "status": "Visitor's permit on arrival",
+            "allowedStay": "3 months",
+            "notes": "3 months within 12 months\nVisa on arrival is issued free of charge."
+        },
+        "somalia": {
+            "country": "Somalia",
+            "status": "Visa on arrival",
+            "allowedStay": "",
+            "notes": "Available at Berbera, Borama, Burao, Erigavo and Hargeisa airports.\n30 days, available at Bosaso Airport, Galcaio Airport and Mogadishu Airport."
+        },
+        "south_africa": {
+            "country": "South Africa",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "Holders of passports without 2 blank pages may be refused entry."
+        },
+        "south_sudan": {
+            "country": "South Sudan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Two blank passport pages required."
+        },
+        "spain": {
+            "country": "Spain",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area"
+        },
+        "sri_lanka": {
+            "country": "Sri Lanka",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "30 days[419]",
+            "notes": ""
+        },
+        "sudan": {
+            "country": "Sudan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Holders of passports that contain visas or entry/exit stamps for Israel will likely be refused entry.\nExit visa required.\nRegistration within 3 days mandatory."
+        },
+        "suriname": {
+            "country": "Suriname",
+            "status": "Tourist Card on arrival",
+            "allowedStay": "90 days",
+            "notes": "Obtainable at Johan Adolf Pengel International Airport."
+        },
+        "swaziland": {
+            "country": "Swaziland",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": "Extendable up to 60 days"
+        },
+        "sweden": {
+            "country": "Sweden",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area"
+        },
+        "switzerland": {
+            "country": "Switzerland",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period in the Schengen Area"
+        },
+        "syria": {
+            "country": "Syria",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Registration required within 15 days.\nDeparture tax applies at all borders.\nPersons with passports bearing Israeli visas or entry/exit stamps are not allowed to enter."
+        },
+        "tajikistan": {
+            "country": "Tajikistan",
+            "status": "eVisa",
+            "allowedStay": "45 days",
+            "notes": "If arriving from a country that has a Tajik diplomatic mission a visa should be obtained in advance.\neVisa holders can enter through all border points."
+        },
+        "tanzania": {
+            "country": "Tanzania",
+            "status": "Visa on arrival",
+            "allowedStay": "3 months",
+            "notes": "Ordinary visa available on arrival for $100"
+        },
+        "thailand": {
+            "country": "Thailand",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": "Maximum two visits annually if not arriving by air."
+        },
+        "timor-leste": {
+            "country": "Timor-Leste",
+            "status": "Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": "For arrivals by air only"
+        },
+        "togo": {
+            "country": "Togo",
+            "status": "Visa on arrival",
+            "allowedStay": "7 days[446]",
+            "notes": ""
+        },
+        "tonga": {
+            "country": "Tonga",
+            "status": "Visa on arrival",
+            "allowedStay": "31 days[448]",
+            "notes": "Visa on arrival is issued free of charge."
+        },
+        "trinidad_and_tobago": {
+            "country": "Trinidad and Tobago",
+            "status": "Visa not required",
+            "allowedStay": "90 days[450]",
+            "notes": ""
+        },
+        "tunisia": {
+            "country": "Tunisia",
+            "status": "Visa not required",
+            "allowedStay": "90 days[452]",
+            "notes": ""
+        },
+        "turkey": {
+            "country": "Turkey",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "3 months",
+            "notes": ""
+        },
+        "turkmenistan": {
+            "country": "Turkmenistan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Departure fee applies.\n10-day visa on arrival if holding letter of invitation issued by a company registered in Turkmenistan with a prior approval from the Foreign Ministry."
+        },
+        "tuvalu": {
+            "country": "Tuvalu",
+            "status": "Visa on arrival",
+            "allowedStay": "1 month",
+            "notes": "Extendable up to 3 months\nVisa on arrival is issued free of charge."
+        },
+        "uganda": {
+            "country": "Uganda",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "",
+            "notes": "Determined at the port of entry.\nMust apply online at least 2 business days or more prior to travel. As of March 2017, airlines were refusing passengers permission to board flights to Uganda if they did not have a print-out of the document showing that they had successfully applied for an eVisa. Ugandan immigration authorities also may require additional documentation, including proof of a return plane ticket and detailed tour itinerary in Uganda.\nInternational Certificate of Vaccination required."
+        },
+        "ukraine": {
+            "country": "Ukraine",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "90 days within any 180-day period"
+        },
+        "united_arab_emirates": {
+            "country": "United Arab Emirates",
+            "status": "Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": "Visa on arrival is issued free of charge.\nIris scan taken on arrival"
+        },
+        "united_kingdom": {
+            "country": "United Kingdom",
+            "status": "Visa not required",
+            "allowedStay": "6 months[469]",
+            "notes": ""
+        },
+        "uruguay": {
+            "country": "Uruguay",
+            "status": "Visa not required",
+            "allowedStay": "3 months[471]",
+            "notes": ""
+        },
+        "uzbekistan": {
+            "country": "Uzbekistan",
+            "status": "eVisa",
+            "allowedStay": "30 days",
+            "notes": "5-day visa free transit when in transit at the international airports on condition of holding a confirmed onward ticket for a flight to a third country.\nRegistration within 3 days is mandatory."
+        },
+        "vanuatu": {
+            "country": "Vanuatu",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": "Extendable up to 120 days"
+        },
+        "vatican_city": {
+            "country": "Vatican City",
+            "status": "Visa not required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "venezuela": {
+            "country": "Venezuela",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "vietnam": {
+            "country": "Vietnam",
+            "status": "eVisa",
+            "allowedStay": "30 days",
+            "notes": "A single entry eVisa is available.\nPhú Quốc visa exemption for up to 30 days."
+        },
+        "yemen": {
+            "country": "Yemen",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Registration mandatory.\nExit visa required for stays over 30 days."
+        },
+        "zambia": {
+            "country": "Zambia",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "90 days",
+            "notes": "Exact period determined on arrival, later extendable free of charge.\nAll visitors are fingerprinted.\nTwo blank pages required\nInternational Certificate of Vaccination required.\nElectronic visa also available."
+        },
+        "zimbabwe": {
+            "country": "Zimbabwe",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "3 months",
+            "notes": "Tourism purposes only.\nElectronic visa also available."
+        }
+    }
+}

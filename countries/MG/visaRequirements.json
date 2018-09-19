@@ -1,0 +1,1168 @@
+{
+    "scrapeUrl": "/wiki/Visa_requirements_for_Malagasy_citizens",
+    "nationality": "Malagasy",
+    "numCode": "450",
+    "alpha2Code": "MG",
+    "alpha3Code": "MDG",
+    "enShortName": "Madagascar",
+    "requirements": {
+        "afghanistan": {
+            "country": "Afghanistan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "albania": {
+            "country": "Albania",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "algeria": {
+            "country": "Algeria",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "andorra": {
+            "country": "Andorra",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "angola": {
+            "country": "Angola",
+            "status": "eVisa",
+            "allowedStay": "30 days",
+            "notes": "Visitors who have been granted an online pre-visa are then issued with a visa on arrival at Luanda International Airport.\nFor a maximum total stay of 90 days within a one year period."
+        },
+        "antigua_and_barbuda": {
+            "country": "Antigua and Barbuda",
+            "status": "Electronic Entry Visa",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "argentina": {
+            "country": "Argentina",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "armenia": {
+            "country": "Armenia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "australia_and_territories": {
+            "country": "Australia and territories",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "May apply online (Online Visitor e600 visa)."
+        },
+        "austria": {
+            "country": "Austria",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "azerbaijan": {
+            "country": "Azerbaijan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "bahamas": {
+            "country": "Bahamas",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "bahrain": {
+            "country": "Bahrain",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "bangladesh": {
+            "country": "Bangladesh",
+            "status": "Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "barbados": {
+            "country": "Barbados",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "belarus": {
+            "country": "Belarus",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "belgium": {
+            "country": "Belgium",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "belize": {
+            "country": "Belize",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Permanent residents and holders of multiple entry visa of the United States may obtain a visa on arrival for a fee of US$50. Passengers with a valid visa issued by a Schengen Member State are visa exempt for a maximum stay of 90 days."
+        },
+        "benin": {
+            "country": "Benin",
+            "status": "Visa not required",
+            "allowedStay": "90 days[26][27]",
+            "notes": ""
+        },
+        "bhutan": {
+            "country": "Bhutan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "bolivia": {
+            "country": "Bolivia",
+            "status": "Visa on arrival",
+            "allowedStay": "90 days",
+            "notes": ""
+        },
+        "bosnia_and_herzegovina": {
+            "country": "Bosnia and Herzegovina",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Holders of a multiple-entry Schengen Area Visa, can enter and stay in Bosnia and Herzegovina up to 15 days upon every entry per period of 180 days, if visa previously used in one of the Schengen Area."
+        },
+        "botswana": {
+            "country": "Botswana",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "brazil": {
+            "country": "Brazil",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "brunei": {
+            "country": "Brunei",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "bulgaria": {
+            "country": "Bulgaria",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "burkina_faso": {
+            "country": "Burkina Faso",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "burundi": {
+            "country": "Burundi",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "cambodia": {
+            "country": "Cambodia",
+            "status": "Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "cameroon": {
+            "country": "Cameroon",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "canada": {
+            "country": "Canada",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "cape_verde": {
+            "country": "Cape Verde",
+            "status": "Visa on arrival",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "central_african_republic": {
+            "country": "Central African Republic",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "chad": {
+            "country": "Chad",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "chile": {
+            "country": "Chile",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "china": {
+            "country": "China",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "colombia": {
+            "country": "Colombia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "May apply online."
+        },
+        "comoros": {
+            "country": "Comoros",
+            "status": "Visa on arrival",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "republic_of_the_congo": {
+            "country": "Republic of the Congo",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "democratic_republic_of_the_congo": {
+            "country": "Democratic Republic of the Congo",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "costa_rica": {
+            "country": "Costa Rica",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Resident permit holders of the European Union may enter for 30 days; as well as multiple-entry visa holders of Canada and the U.S. Green Cards or U.S. visas must be valid for more than six months on arrival except for holders of B or D visas. Not applicable to holders of C1 visas."
+        },
+        "côte_d'ivoire": {
+            "country": "Côte d'Ivoire",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "croatia": {
+            "country": "Croatia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "cuba": {
+            "country": "Cuba",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "cyprus": {
+            "country": "Cyprus",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "czech_republic": {
+            "country": "Czech Republic",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "denmark": {
+            "country": "Denmark",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "djibouti": {
+            "country": "Djibouti",
+            "status": "eVisa",
+            "allowedStay": "31 days",
+            "notes": ""
+        },
+        "dominica": {
+            "country": "Dominica",
+            "status": "Visa not required",
+            "allowedStay": "21 days",
+            "notes": ""
+        },
+        "dominican_republic": {
+            "country": "Dominican Republic",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Visa exemption applies to residents and valid visa holders of Canada, the United States and the European Union."
+        },
+        "ecuador": {
+            "country": "Ecuador",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": ""
+        },
+        "egypt": {
+            "country": "Egypt",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "el_salvador": {
+            "country": "El Salvador",
+            "status": "Visa not required",
+            "allowedStay": "3 month",
+            "notes": ""
+        },
+        "equatorial_guinea": {
+            "country": "Equatorial Guinea",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "eritrea": {
+            "country": "Eritrea",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "estonia": {
+            "country": "Estonia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "ethiopia": {
+            "country": "Ethiopia",
+            "status": "eVisa",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "fiji": {
+            "country": "Fiji",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "finland": {
+            "country": "Finland",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "france": {
+            "country": "France",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "gabon": {
+            "country": "Gabon",
+            "status": "eVisa",
+            "allowedStay": "",
+            "notes": "Electronic visa holders must arrive via Libreville International Airport."
+        },
+        "gambia": {
+            "country": "Gambia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "In addition to a visa, an entry clearance must be obtained from the Gambian Immigration prior to travel."
+        },
+        "georgia": {
+            "country": "Georgia",
+            "status": "eVisa",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "germany": {
+            "country": "Germany",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "ghana": {
+            "country": "Ghana",
+            "status": "Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "greece": {
+            "country": "Greece",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "grenada": {
+            "country": "Grenada",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "guatemala": {
+            "country": "Guatemala",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": ""
+        },
+        "guinea": {
+            "country": "Guinea",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "guinea-bissau": {
+            "country": "Guinea-Bissau",
+            "status": "Visa on arrival",
+            "allowedStay": "90 days",
+            "notes": ""
+        },
+        "guyana": {
+            "country": "Guyana",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "haiti": {
+            "country": "Haiti",
+            "status": "Visa not required",
+            "allowedStay": "3 months",
+            "notes": ""
+        },
+        "honduras": {
+            "country": "Honduras",
+            "status": "Visa not required",
+            "allowedStay": "3 months",
+            "notes": ""
+        },
+        "hungary": {
+            "country": "Hungary",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "iceland": {
+            "country": "Iceland",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "india": {
+            "country": "India",
+            "status": "e-Visa",
+            "allowedStay": "60 days",
+            "notes": "e-Visa holders must arrive via 25 designated airports[Note 1] or 3 designated seaports.[Note 2]\nAn Indian e-Tourist Visa can only be obtained twice in one calendar year."
+        },
+        "indonesia": {
+            "country": "Indonesia",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "iran": {
+            "country": "Iran",
+            "status": "Visa on arrival",
+            "allowedStay": "30 days[90]",
+            "notes": ""
+        },
+        "iraq": {
+            "country": "Iraq",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "ireland": {
+            "country": "Ireland",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "israel": {
+            "country": "Israel",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "italy": {
+            "country": "Italy",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "jamaica": {
+            "country": "Jamaica",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "japan": {
+            "country": "Japan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "jordan": {
+            "country": "Jordan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "kazakhstan": {
+            "country": "Kazakhstan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "kenya": {
+            "country": "Kenya",
+            "status": "eVisa",
+            "allowedStay": "3 months",
+            "notes": ""
+        },
+        "kiribati": {
+            "country": "Kiribati",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "north_korea": {
+            "country": "North Korea",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "south_korea": {
+            "country": "South Korea",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Non-visa-exempt nationals who are in transit through South Korea are visa-exempt for 30 days, provided holding a physical visa or a residence permit issued by the following countries and are arriving at South Korea from one of these countries and continuing to a third country, or arriving from a third country and continuing to one of these countries: Australia, New Zealand, Canada, United States."
+        },
+        "kuwait": {
+            "country": "Kuwait",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "kyrgyzstan": {
+            "country": "Kyrgyzstan",
+            "status": "eVisa",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "laos": {
+            "country": "Laos",
+            "status": "Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": "Conditions apply.\nAvailable at international airports Luangphabang, Pakse, Savannakhet and Vientiane, and at 4 land borders Friendship Bridge,[Note 3] and at 13 border crossings[Note 4] as well as Tanalaeng train station in Vientiane, which connects to the train station in Nongkai, Thailand.\nEntry points Lalai, Lantui, Meuang mom, Pakxan, and Phoudou are open only to visa holders.\nExtendable up to 60 days."
+        },
+        "latvia": {
+            "country": "Latvia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "lebanon": {
+            "country": "Lebanon",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "lesotho": {
+            "country": "Lesotho",
+            "status": "eVisa",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "liberia": {
+            "country": "Liberia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "libya": {
+            "country": "Libya",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "liechtenstein": {
+            "country": "Liechtenstein",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "lithuania": {
+            "country": "Lithuania",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "luxembourg": {
+            "country": "Luxembourg",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "macedonia": {
+            "country": "Macedonia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Holders of a valid Type \"C\" multiple entry visa or Permanent Residency for the Schengen Area may enter Macedonia for up to 15 days visa free. A temporary residence permit (with expiration date) is not accepted.\nHolders of a valid UK, Canada or USA visa may enter Macedonia for up to 15 days visa free.\nHolders of UN travel documents do not require a visa."
+        },
+        "malawi": {
+            "country": "Malawi",
+            "status": "Visa on arrival",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "malaysia": {
+            "country": "Malaysia",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "maldives": {
+            "country": "Maldives",
+            "status": "Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "mali": {
+            "country": "Mali",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "malta": {
+            "country": "Malta",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "marshall_islands": {
+            "country": "Marshall Islands",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "mauritania": {
+            "country": "Mauritania",
+            "status": "Visa on arrival",
+            "allowedStay": "",
+            "notes": "Available at Nouakchott–Oumtounsy International Airport."
+        },
+        "mauritius": {
+            "country": "Mauritius",
+            "status": "Visa on arrival",
+            "allowedStay": "14 days",
+            "notes": ""
+        },
+        "mexico": {
+            "country": "Mexico",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Malagasy passport holders are visa exempt if they hold a valid visa for Canada, United States, United Kingdom, Japan or Schengen\nMalagasy passport holders are visa exempt if they hold residence from Canada, United States, United Kingdom, Japan, Schengen, Colombia or Peru"
+        },
+        "micronesia": {
+            "country": "Micronesia",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "moldova": {
+            "country": "Moldova",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "monaco": {
+            "country": "Monaco",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "mongolia": {
+            "country": "Mongolia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "montenegro": {
+            "country": "Montenegro",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "morocco": {
+            "country": "Morocco",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "mozambique": {
+            "country": "Mozambique",
+            "status": "Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "myanmar": {
+            "country": "Myanmar",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "namibia": {
+            "country": "Namibia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "nauru": {
+            "country": "Nauru",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "nepal": {
+            "country": "Nepal",
+            "status": "Visa on arrival",
+            "allowedStay": "90 days",
+            "notes": ""
+        },
+        "netherlands": {
+            "country": "Netherlands",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "new_zealand": {
+            "country": "New Zealand",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "nicaragua": {
+            "country": "Nicaragua",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": ""
+        },
+        "niger": {
+            "country": "Niger",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "nigeria": {
+            "country": "Nigeria",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "norway": {
+            "country": "Norway",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "oman": {
+            "country": "Oman",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "pakistan": {
+            "country": "Pakistan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "palau": {
+            "country": "Palau",
+            "status": "Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "panama": {
+            "country": "Panama",
+            "status": "Visa not required",
+            "allowedStay": "180 days",
+            "notes": ""
+        },
+        "papua_new_guinea": {
+            "country": "Papua New Guinea",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "paraguay": {
+            "country": "Paraguay",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "peru": {
+            "country": "Peru",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "philippines": {
+            "country": "Philippines",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "poland": {
+            "country": "Poland",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "portugal": {
+            "country": "Portugal",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "qatar": {
+            "country": "Qatar",
+            "status": "eVisa",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "romania": {
+            "country": "Romania",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "russia": {
+            "country": "Russia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "rwanda": {
+            "country": "Rwanda",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "saint_kitts_and_nevis": {
+            "country": "Saint Kitts and Nevis",
+            "status": "eVisa",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "saint_lucia": {
+            "country": "Saint Lucia",
+            "status": "Visa on arrival",
+            "allowedStay": "6 weeks",
+            "notes": "Visa on arrival fee of $50 USD"
+        },
+        "saint_vincent_and_the_grenadines": {
+            "country": "Saint Vincent and the Grenadines",
+            "status": "Visa not required",
+            "allowedStay": "1 month",
+            "notes": ""
+        },
+        "samoa": {
+            "country": "Samoa",
+            "status": "Entry Permit on arrival",
+            "allowedStay": "60 days",
+            "notes": ""
+        },
+        "san_marino": {
+            "country": "San Marino",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "são_tomé_and_príncipe": {
+            "country": "São Tomé and Príncipe",
+            "status": "eVisa",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "saudi_arabia": {
+            "country": "Saudi Arabia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "senegal": {
+            "country": "Senegal",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "serbia": {
+            "country": "Serbia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "As of November 2014 valid visa holders and residents of the European Union and Schengen Area member states and the United States can enter Serbia without a visa for a maximum stay of 90 days within 180 days, provided the visa remains valid for the entire length of stay."
+        },
+        "seychelles": {
+            "country": "Seychelles",
+            "status": "Free Visitor's Permit on arrival",
+            "allowedStay": "3 months",
+            "notes": ""
+        },
+        "sierra_leone": {
+            "country": "Sierra Leone",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "singapore": {
+            "country": "Singapore",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "slovakia": {
+            "country": "Slovakia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "slovenia": {
+            "country": "Slovenia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "solomon_islands": {
+            "country": "Solomon Islands",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "somalia": {
+            "country": "Somalia",
+            "status": "Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": "Available at Bosaso Airport, Galcaio Airport and Mogadishu Airport."
+        },
+        "south_africa": {
+            "country": "South Africa",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "south_sudan": {
+            "country": "South Sudan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "spain": {
+            "country": "Spain",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "sri_lanka": {
+            "country": "Sri Lanka",
+            "status": "Electronic Travel Authorization",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "sudan": {
+            "country": "Sudan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "suriname": {
+            "country": "Suriname",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "swaziland": {
+            "country": "Swaziland",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "sweden": {
+            "country": "Sweden",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "switzerland": {
+            "country": "Switzerland",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "syria": {
+            "country": "Syria",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "tajikistan": {
+            "country": "Tajikistan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "tanzania": {
+            "country": "Tanzania",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": ""
+        },
+        "thailand": {
+            "country": "Thailand",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "timor-leste": {
+            "country": "Timor-Leste",
+            "status": "Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "togo": {
+            "country": "Togo",
+            "status": "Visa on arrival",
+            "allowedStay": "7 days",
+            "notes": ""
+        },
+        "tonga": {
+            "country": "Tonga",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "trinidad_and_tobago": {
+            "country": "Trinidad and Tobago",
+            "status": "Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": "Visa on arrival obtainable for arriving passengers with a visa fee of $400 TTD"
+        },
+        "tunisia": {
+            "country": "Tunisia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "turkey": {
+            "country": "Turkey",
+            "status": "eVisa",
+            "allowedStay": "30 days",
+            "notes": "Single entry eVisa fee of $20 USD."
+        },
+        "turkmenistan": {
+            "country": "Turkmenistan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "tuvalu": {
+            "country": "Tuvalu",
+            "status": "Visa on arrival",
+            "allowedStay": "1 month",
+            "notes": ""
+        },
+        "uganda": {
+            "country": "Uganda",
+            "status": "Visa not required",
+            "allowedStay": "3 month",
+            "notes": ""
+        },
+        "ukraine": {
+            "country": "Ukraine",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "united_arab_emirates": {
+            "country": "United Arab Emirates",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "united_kingdom_and_crown_dependencies": {
+            "country": "United Kingdom and Crown dependencies",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "united_states": {
+            "country": "United States",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "uruguay": {
+            "country": "Uruguay",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "uzbekistan": {
+            "country": "Uzbekistan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "vanuatu": {
+            "country": "Vanuatu",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "vatican_city": {
+            "country": "Vatican City",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "venezuela": {
+            "country": "Venezuela",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "vietnam": {
+            "country": "Vietnam",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "yemen": {
+            "country": "Yemen",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "zambia": {
+            "country": "Zambia",
+            "status": "Visa on arrival",
+            "allowedStay": "90 days",
+            "notes": ""
+        },
+        "zimbabwe": {
+            "country": "Zimbabwe",
+            "status": "Visa not required",
+            "allowedStay": "3 months",
+            "notes": ""
+        }
+    }
+}

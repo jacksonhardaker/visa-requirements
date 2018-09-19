@@ -1,0 +1,1168 @@
+{
+    "scrapeUrl": "/wiki/Visa_requirements_for_Indonesian_citizens",
+    "nationality": "Indonesian",
+    "numCode": "360",
+    "alpha2Code": "ID",
+    "alpha3Code": "IDN",
+    "enShortName": "Indonesia",
+    "requirements": {
+        "afghanistan": {
+            "country": "Afghanistan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Due to safety concerns, the Indonesian government advises its citizens not to visit Afghanistan."
+        },
+        "albania": {
+            "country": "Albania",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Visa requirement is waived for used and valid, multiple-entry US, UK or Schengen visa holders.\nA maximum of 90 days of stay within 180 days period."
+        },
+        "algeria": {
+            "country": "Algeria",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 180 days total stay within a one year period."
+        },
+        "andorra": {
+            "country": "Andorra",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "There are no visa requirements for entry into Andorra, but it can only be accessed by passing through France or Spain. A multiple-entry Schengen visa is required to re-enter either France or Spain when leaving Andorra. \nA maximum of 90 days of stay within 180 days period."
+        },
+        "angola": {
+            "country": "Angola",
+            "status": "eVisa",
+            "allowedStay": "30 days",
+            "notes": "International Certificate of Vaccination required.\nVisitors who have been granted an online pre-visa are then issued with a visa on arrival at Luanda International Airport.\nFor a maximum total stay of 90 days within a one year period."
+        },
+        "antigua_and_barbuda": {
+            "country": "Antigua and Barbuda",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": "Visa on arrival may only be obtained for US, UK, Canada or Schengen visa holders, among other requirements."
+        },
+        "argentina": {
+            "country": "Argentina",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay per period."
+        },
+        "armenia": {
+            "country": "Armenia",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "120 days",
+            "notes": ""
+        },
+        "australia": {
+            "country": "Australia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay per entry.\nMay apply online (Online Visitor e600 visa).\nTransit visa is not required."
+        },
+        "austria": {
+            "country": "Austria",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "azerbaijan": {
+            "country": "Azerbaijan",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "",
+            "notes": "eVisa option is also available for Indonesian citizens for maximum stay of 30 days"
+        },
+        "bahamas": {
+            "country": "Bahamas",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay per entry.\nVisa requirement is waived for the US or Canada Permanent Residents for a maximum stay of 30 days."
+        },
+        "bahrain": {
+            "country": "Bahrain",
+            "status": "eVisa",
+            "allowedStay": "30 days",
+            "notes": "Extendable for another 2 weeks by visiting NPRA in Bahrain."
+        },
+        "bangladesh": {
+            "country": "Bangladesh",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "barbados": {
+            "country": "Barbados",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Visa applications must either be sent to Barbados or its consulates abroad. Please note that Barbados has no diplomatic missions in Indonesia."
+        },
+        "belarus": {
+            "country": "Belarus",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": "Must arrive and depart via Minsk International Airport and not on flights to and from Russia since these are regarded as internal Union State internal flights with no border controls. Indonesian nationals must also have plane tickets with confirmation of a departure date within 30 days and medical insurance in the amount of at least €10,000."
+        },
+        "belgium": {
+            "country": "Belgium",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "belize": {
+            "country": "Belize",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Visa requirement is waived for multiple-entry US visa holders."
+        },
+        "benin": {
+            "country": "Benin",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "30 days / 8 days",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "bhutan": {
+            "country": "Bhutan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Visas are issued only to tourists booked with a local licensed tour operator."
+        },
+        "bolivia": {
+            "country": "Bolivia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Authorization is required from the Directorate General of Immigration of Bolivia."
+        },
+        "bosnia_and_herzegovina": {
+            "country": "Bosnia and Herzegovina",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Visa requirement is waived for valid multIple-entry Schengen visa holders, with a maximum of 15 days of stay."
+        },
+        "botswana": {
+            "country": "Botswana",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "brazil": {
+            "country": "Brazil",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "brunei": {
+            "country": "Brunei",
+            "status": "Visa not required",
+            "allowedStay": "14 days",
+            "notes": ""
+        },
+        "bulgaria": {
+            "country": "Bulgaria",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Visa requirement is waived for Romania, Cyprus, Croatia or Schengen visa holders for a maximum of 90 days of stay within 180 days period."
+        },
+        "burkina_faso": {
+            "country": "Burkina Faso",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "burundi": {
+            "country": "Burundi",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "cambodia": {
+            "country": "Cambodia",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "cameroon": {
+            "country": "Cameroon",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "canada": {
+            "country": "Canada",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Transit visa is not required if holding a valid US visa and travelling on an approved airline through an approved Canadian airport."
+        },
+        "cape_verde": {
+            "country": "Cape Verde",
+            "status": "Visa on arrival",
+            "allowedStay": "",
+            "notes": "Obtainable at Nelson Mandela International Airport, Cesária Évora Airport, Amílcar Cabral International Airport and Aristides Pereira International Airport.\nPassengers arriving via some countries must hold an International Certificate of Vaccination."
+        },
+        "central_african_republic": {
+            "country": "Central African Republic",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "chad": {
+            "country": "Chad",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "chile": {
+            "country": "Chile",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": ""
+        },
+        "china": {
+            "country": "China",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Visa on arrival is available for Indonesian passport holders with specific conditions and at only some ports of entry."
+        },
+        "colombia": {
+            "country": "Colombia",
+            "status": "Visa not required",
+            "allowedStay": "180 days",
+            "notes": "90 days - can be extended to a maximum of 180 days within a one year period."
+        },
+        "comoros": {
+            "country": "Comoros",
+            "status": "Visa on arrival",
+            "allowedStay": "45 days",
+            "notes": ""
+        },
+        "republic_of_the_congo": {
+            "country": "Republic of the Congo",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "democratic_republic_of_the_congo": {
+            "country": "Democratic Republic of the Congo",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "costa_rica": {
+            "country": "Costa Rica",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Visa requirement is waived for US and Canada visa holders."
+        },
+        "côte_d'ivoire": {
+            "country": "Côte d'Ivoire",
+            "status": "Electronic visa",
+            "allowedStay": "",
+            "notes": "May obtain online and must arrive at Port Bouet Airport."
+        },
+        "croatia": {
+            "country": "Croatia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Visa requirement is waived for Romania, Cyprus, Bulgaria or Schengen visa holders for a maximum of 90 days of stay within 180 days period."
+        },
+        "cuba": {
+            "country": "Cuba",
+            "status": "Tourist Card required",
+            "allowedStay": "",
+            "notes": "Tourist Card required in advance."
+        },
+        "cyprus": {
+            "country": "Cyprus",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "czech_republic": {
+            "country": "Czech Republic",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "denmark": {
+            "country": "Denmark",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "djibouti": {
+            "country": "Djibouti",
+            "status": "eVisa",
+            "allowedStay": "31 days",
+            "notes": ""
+        },
+        "dominica": {
+            "country": "Dominica",
+            "status": "Visa not required",
+            "allowedStay": "21 days",
+            "notes": ""
+        },
+        "dominican_republic": {
+            "country": "Dominican Republic",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "ecuador": {
+            "country": "Ecuador",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "Extendable stay.\nA maximum of 60 days of stay in Galapagos under strict conditions."
+        },
+        "egypt": {
+            "country": "Egypt",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Pre-approval from Egypt authorities required prior to visa issuance."
+        },
+        "el_salvador": {
+            "country": "El Salvador",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "equatorial_guinea": {
+            "country": "Equatorial Guinea",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "International Certificate of Vaccination required if travelling from a country with risk of yellow fever."
+        },
+        "eritrea": {
+            "country": "Eritrea",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 30 days of stay from the day of arrival.\nExtendable at the Immigration Office in Asmara."
+        },
+        "estonia": {
+            "country": "Estonia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "ethiopia": {
+            "country": "Ethiopia",
+            "status": "eVisa",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "fiji": {
+            "country": "Fiji",
+            "status": "Visa not required",
+            "allowedStay": "120 days",
+            "notes": ""
+        },
+        "finland": {
+            "country": "Finland",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "france": {
+            "country": "France",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "gabon": {
+            "country": "Gabon",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "",
+            "notes": "Electronic visa holders must arrive via Libreville International Airport.\nInternational Certificate of Vaccination required."
+        },
+        "gambia": {
+            "country": "Gambia",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "Must obtain an entry clearance from the Gambian Immigration prior to travel.\nInternational Certificate of Vaccination required."
+        },
+        "georgia": {
+            "country": "Georgia",
+            "status": "eVisa",
+            "allowedStay": "30 days",
+            "notes": "A maximum of 30 days of stay within 120 days\nVisa requirement is waived for Australia, EU and its territories, Switzerland, UAE, Qatar, Oman, New Zealand, Japan, Israel, Canada, South Korea, Kuwait, Saudi Arabia, Bahrain, Liechtenstein, Norway or USA  visa holders."
+        },
+        "germany": {
+            "country": "Germany",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "ghana": {
+            "country": "Ghana",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "International Certificate of Vaccination required.\nVisa on arrival / Emergency entry visa may be obtained"
+        },
+        "greece": {
+            "country": "Greece",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "grenada": {
+            "country": "Grenada",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "guatemala": {
+            "country": "Guatemala",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "guinea": {
+            "country": "Guinea",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "guinea-bissau": {
+            "country": "Guinea-Bissau",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "90 days",
+            "notes": ""
+        },
+        "guyana": {
+            "country": "Guyana",
+            "status": "Visa not required",
+            "allowedStay": "30 days[104]",
+            "notes": ""
+        },
+        "haiti": {
+            "country": "Haiti",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": ""
+        },
+        "honduras": {
+            "country": "Honduras",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "hungary": {
+            "country": "Hungary",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "iceland": {
+            "country": "Iceland",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "india": {
+            "country": "India",
+            "status": "Free e-Visa",
+            "allowedStay": "60 days",
+            "notes": "e-Visa issued free of charge for Nationals of Indonesia."
+        },
+        "iran": {
+            "country": "Iran",
+            "status": "Visa on arrival",
+            "allowedStay": "30 days[112]",
+            "notes": ""
+        },
+        "iraq": {
+            "country": "Iraq",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "As of July 2014, due to safety concerns, Indonesian government advises its citizens not to visit Iraq."
+        },
+        "ireland": {
+            "country": "Ireland",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Visa is issued free of charge."
+        },
+        "israel": {
+            "country": "Israel",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Entry ban for Indonesian tourists has been lifted"
+        },
+        "italy": {
+            "country": "Italy",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "jamaica": {
+            "country": "Jamaica",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "japan": {
+            "country": "Japan",
+            "status": "Visa not required",
+            "allowedStay": "15 days",
+            "notes": "Visa not required for 15 days only if biometric passport is endorsed with a Visa Waiver Registration Certificate from a Japanese Embassy or Consulate."
+        },
+        "jordan": {
+            "country": "Jordan",
+            "status": "Visa on arrival",
+            "allowedStay": "90 days",
+            "notes": ""
+        },
+        "kazakhstan": {
+            "country": "Kazakhstan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "kenya": {
+            "country": "Kenya",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "3 months",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "kiribati": {
+            "country": "Kiribati",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "north_korea": {
+            "country": "North Korea",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "south_korea": {
+            "country": "South Korea",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Visa not required for a maximum stay of 30 days if:\nholding a visa issued by Australia, Canada, USA or New Zealand and only if in transit from or to those countries via South Korea.\narriving and departing from Jeju (CJU) for tourism purpose.\nhaving previously entered Korea at least 4 times within the last 2 years or at least 10 visits in total."
+        },
+        "kuwait": {
+            "country": "Kuwait",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "kyrgyzstan": {
+            "country": "Kyrgyzstan",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "1 month",
+            "notes": "Available at Manas International Airport."
+        },
+        "laos": {
+            "country": "Laos",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "latvia": {
+            "country": "Latvia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "lebanon": {
+            "country": "Lebanon",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "In addition to a visa, an approval should be obtained from the Immigration department of the General Directorate of General Security (La Surete Generale)."
+        },
+        "lesotho": {
+            "country": "Lesotho",
+            "status": "eVisa",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "liberia": {
+            "country": "Liberia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "libya": {
+            "country": "Libya",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "As of March 2015, due to safety concerns, Indonesian government advises its citizens not to visit Libya."
+        },
+        "liechtenstein": {
+            "country": "Liechtenstein",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "lithuania": {
+            "country": "Lithuania",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "luxembourg": {
+            "country": "Luxembourg",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "macedonia": {
+            "country": "Macedonia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "madagascar": {
+            "country": "Madagascar",
+            "status": "Free visa on arrival",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "malawi": {
+            "country": "Malawi",
+            "status": "Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": "Can extend for a total of 90 days."
+        },
+        "malaysia": {
+            "country": "Malaysia",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "maldives": {
+            "country": "Maldives",
+            "status": "Free visa on arrival",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "mali": {
+            "country": "Mali",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "malta": {
+            "country": "Malta",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "marshall_islands": {
+            "country": "Marshall Islands",
+            "status": "Visa on arrival",
+            "allowedStay": "90 days",
+            "notes": ""
+        },
+        "mauritania": {
+            "country": "Mauritania",
+            "status": "Visa on arrival",
+            "allowedStay": "",
+            "notes": "Visa on arrival available at Nouakchott–Oumtounsy International Airport.\nInternational Certificate of Vaccination required."
+        },
+        "mauritius": {
+            "country": "Mauritius",
+            "status": "Visa on arrival",
+            "allowedStay": "60 days[152]",
+            "notes": ""
+        },
+        "mexico": {
+            "country": "Mexico",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Visa requirement is waived for valid US, Canada, Japan, UK or Schengen visa holders."
+        },
+        "micronesia": {
+            "country": "Micronesia",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "moldova": {
+            "country": "Moldova",
+            "status": "eVisa",
+            "allowedStay": "90 days",
+            "notes": ""
+        },
+        "monaco": {
+            "country": "Monaco",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "mongolia": {
+            "country": "Mongolia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "montenegro": {
+            "country": "Montenegro",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "morocco": {
+            "country": "Morocco",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": ""
+        },
+        "mozambique": {
+            "country": "Mozambique",
+            "status": "Visa on arrival",
+            "allowedStay": "30 days[162]",
+            "notes": ""
+        },
+        "myanmar": {
+            "country": "Myanmar",
+            "status": "Visa not required",
+            "allowedStay": "14 days",
+            "notes": ""
+        },
+        "namibia": {
+            "country": "Namibia",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": ""
+        },
+        "nauru": {
+            "country": "Nauru",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "nepal": {
+            "country": "Nepal",
+            "status": "Visa on arrival",
+            "allowedStay": "90 days",
+            "notes": ""
+        },
+        "netherlands": {
+            "country": "Netherlands",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "new_zealand": {
+            "country": "New Zealand",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "May transit without a visa."
+        },
+        "nicaragua": {
+            "country": "Nicaragua",
+            "status": "Visa on arrival",
+            "allowedStay": "90 days",
+            "notes": ""
+        },
+        "niger": {
+            "country": "Niger",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "nigeria": {
+            "country": "Nigeria",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "norway": {
+            "country": "Norway",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "oman": {
+            "country": "Oman",
+            "status": "eVisa",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "pakistan": {
+            "country": "Pakistan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Visa on arrival when travelling on business valid for 30 days. Conditions apply."
+        },
+        "palau": {
+            "country": "Palau",
+            "status": "Free visa on arrival",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "panama": {
+            "country": "Panama",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Visa requirement is waived for multiple-entry, one year valid USA, Australia, Canada or UK visa holders. Schengen visa holders are also included in this category."
+        },
+        "papua_new_guinea": {
+            "country": "Papua New Guinea",
+            "status": "Free visa on arrival",
+            "allowedStay": "60 days",
+            "notes": "Free visa on arrival.\nExtension is possible with a fee"
+        },
+        "paraguay": {
+            "country": "Paraguay",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "peru": {
+            "country": "Peru",
+            "status": "Visa not required",
+            "allowedStay": "183 days",
+            "notes": ""
+        },
+        "philippines": {
+            "country": "Philippines",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "poland": {
+            "country": "Poland",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "portugal": {
+            "country": "Portugal",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "qatar": {
+            "country": "Qatar",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": "Available at Hamad International Airport. eVisa is also available."
+        },
+        "romania": {
+            "country": "Romania",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Visa requirement is waived for multiple-entry Bulgaria, Cyprus, Croatia or Schengen visa holders."
+        },
+        "russia": {
+            "country": "Russia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "72-hour visa-free visit to St Petersburg, if travelling using St. Peter Line."
+        },
+        "rwanda": {
+            "country": "Rwanda",
+            "status": "Visa not required",
+            "allowedStay": "90 days",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "saint_kitts_and_nevis": {
+            "country": "Saint Kitts and Nevis",
+            "status": "Electronic visa",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "saint_lucia": {
+            "country": "Saint Lucia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "saint_vincent_and_the_grenadines": {
+            "country": "Saint Vincent and the Grenadines",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "samoa": {
+            "country": "Samoa",
+            "status": "Entry Permit on arrival",
+            "allowedStay": "60 days",
+            "notes": ""
+        },
+        "san_marino": {
+            "country": "San Marino",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Only accessible via Italy, therefore a Schengen visa is required,"
+        },
+        "são_tomé_and_príncipe": {
+            "country": "São Tomé and Príncipe",
+            "status": "Electronic visa",
+            "allowedStay": "15 days",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "saudi_arabia": {
+            "country": "Saudi Arabia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "senegal": {
+            "country": "Senegal",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "serbia": {
+            "country": "Serbia",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": "30 days within period of one year"
+        },
+        "seychelles": {
+            "country": "Seychelles",
+            "status": "Free Visitor's Permit on arrival",
+            "allowedStay": "3 months",
+            "notes": ""
+        },
+        "sierra_leone": {
+            "country": "Sierra Leone",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "singapore": {
+            "country": "Singapore",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "slovakia": {
+            "country": "Slovakia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "slovenia": {
+            "country": "Slovenia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "solomon_islands": {
+            "country": "Solomon Islands",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "somalia": {
+            "country": "Somalia",
+            "status": "Visa on arrival",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "south_africa": {
+            "country": "South Africa",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "south_sudan": {
+            "country": "South Sudan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "spain": {
+            "country": "Spain",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "sri_lanka": {
+            "country": "Sri Lanka",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "sudan": {
+            "country": "Sudan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "suriname": {
+            "country": "Suriname",
+            "status": "Tourist Card on arrival",
+            "allowedStay": "90 days",
+            "notes": ""
+        },
+        "swaziland": {
+            "country": "Swaziland",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "sweden": {
+            "country": "Sweden",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "switzerland": {
+            "country": "Switzerland",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
+        },
+        "syria": {
+            "country": "Syria",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Due to safety concerns, Indonesian government advises its citizens not to visit Syria."
+        },
+        "tajikistan": {
+            "country": "Tajikistan",
+            "status": "eVisa",
+            "allowedStay": "45 days",
+            "notes": "E-visa holders can enter through all border points."
+        },
+        "tanzania": {
+            "country": "Tanzania",
+            "status": "Visa on arrival",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "thailand": {
+            "country": "Thailand",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": "Maximum two visits annually if not arriving by air"
+        },
+        "timor-leste": {
+            "country": "Timor-Leste",
+            "status": "Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "togo": {
+            "country": "Togo",
+            "status": "Visa on arrival",
+            "allowedStay": "7 days",
+            "notes": ""
+        },
+        "tonga": {
+            "country": "Tonga",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "trinidad_and_tobago": {
+            "country": "Trinidad and Tobago",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "tunisia": {
+            "country": "Tunisia",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "turkey": {
+            "country": "Turkey",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "turkmenistan": {
+            "country": "Turkmenistan",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "tuvalu": {
+            "country": "Tuvalu",
+            "status": "Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "uganda": {
+            "country": "Uganda",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "ukraine": {
+            "country": "Ukraine",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "15 days",
+            "notes": "Visa on arrival for business or tourism is available at Kyiv Boryspil Airport, Kyiv International Airport (Zhuliany) and Odessa International Airport."
+        },
+        "united_arab_emirates": {
+            "country": "United Arab Emirates",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Electronic visa available to passengers boarding Emirates or Etihad flight(s)"
+        },
+        "united_kingdom": {
+            "country": "United Kingdom",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "24-hours visa-free visit:\nwhen in transit to/from Australia, Canada, New Zealand or USA,\nor if holder of residence permit issued by Australia, Canada, New Zealand or USA,\nor if holder of certain EEA or Switzerland visas,\nor if holder of certain Irish visas."
+        },
+        "united_states": {
+            "country": "United States",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "uruguay": {
+            "country": "Uruguay",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "uzbekistan": {
+            "country": "Uzbekistan",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "vanuatu": {
+            "country": "Vanuatu",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "A maximum of 30 days of stay for visitors, extendable up to 4 months at the Vanuatu Immigration."
+        },
+        "vatican_city": {
+            "country": "Vatican City",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "Only accessible via Italy, therefore a Schengen visa is required."
+        },
+        "venezuela": {
+            "country": "Venezuela",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": ""
+        },
+        "vietnam": {
+            "country": "Vietnam",
+            "status": "Visa not required",
+            "allowedStay": "30 days",
+            "notes": ""
+        },
+        "yemen": {
+            "country": "Yemen",
+            "status": "Visa required",
+            "allowedStay": "",
+            "notes": "As of April 2016, due to safety concerns, Indonesian government advises its citizens not to visit Yemen."
+        },
+        "zambia": {
+            "country": "Zambia",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "30 days",
+            "notes": "International Certificate of Vaccination required."
+        },
+        "zimbabwe": {
+            "country": "Zimbabwe",
+            "status": "eVisa / Visa on arrival",
+            "allowedStay": "90 days",
+            "notes": ""
+        }
+    }
+}

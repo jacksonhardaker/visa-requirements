@@ -22,12 +22,36 @@ const entryPoint =
     ...getCountryVisaPageLinks(nextPageHtml)
   ];
 
-  const requirementsArray = await getVisaRequrementsObjects(countryLinks);
+  const requirementsAll = await getVisaRequrementsObjects(countryLinks);
 
-  const jsonData = JSON.stringify(requirementsArray, null, 4);
-  const jsonDataMin = JSON.stringify(requirementsArray);
-  fs.writeFile('visaRequirements.json', jsonData, 'utf8', () => {});
-  fs.writeFile('visaRequirements.min.json', jsonDataMin, 'utf8', () => {});
+  const countriesDir = './countries/';
+  Object.keys(requirementsAll).forEach(alpha2Code => {
+    let countryDir = `${countriesDir}${alpha2Code}`;
+
+    if (!fs.existsSync(countryDir)) {
+      fs.mkdirSync(countryDir);
+    }
+
+    const jsonData = JSON.stringify(requirementsAll[alpha2Code], null, 4);
+    const jsonDataMin = JSON.stringify(requirementsAll[alpha2Code]);
+    fs.writeFile(
+      `${countryDir}/visaRequirements.json`,
+      jsonData,
+      'utf8',
+      () => {}
+    );
+    fs.writeFile(
+      `${countryDir}/visaRequirements.min.json`,
+      jsonDataMin,
+      'utf8',
+      () => {}
+    );
+  });
+
+  const jsonData = JSON.stringify(requirementsAll, null, 4);
+  const jsonDataMin = JSON.stringify(requirementsAll);
+  fs.writeFile('visaRequirementsFull.json', jsonData, 'utf8', () => {});
+  fs.writeFile('visaRequirementsFull.min.json', jsonDataMin, 'utf8', () => {});
 })();
 
 async function getVisaRequrementsObjects(urls) {

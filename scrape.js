@@ -31,7 +31,7 @@ const entryPoint =
 })();
 
 async function getVisaRequrementsObjects(urls) {
-  const visaReqArr = [];
+  const visaReq = {};
 
   for (let i = 0; i < urls.length; i++) {
     console.log(`[Beginning Scrape: ${urls[i]}]`);
@@ -44,17 +44,21 @@ async function getVisaRequrementsObjects(urls) {
         .replace(/_/g, ' ')
     );
 
-    visaReqArr.push({
+    let data = {
       scrapeUrl: urls[i],
       nationality: nationality,
       ...getCountryByNationality(nationality),
       requirements: requirementsObj
-    });
+    };
+
+    if (data.alpha2Code) {
+      visaReq[data.alpha2Code] = data;
+    }
 
     console.log(`[Finished Scrape: ${urls[i]}]`);
   }
 
-  return visaReqArr;
+  return visaReq;
 }
 
 async function getCountryVisaRequirements(url) {
